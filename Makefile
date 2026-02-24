@@ -74,6 +74,7 @@ help:
 	@echo "  make fresh       - Recreate DB from scratch (local only!)"
 	@echo "  make bash        - Enter Laravel container"
 	@echo "  make logs        - Tail Laravel container logs"
+	@echo "  make up          - Start containers"
 	@echo "  make down        - Stop containers"
 	@echo "  make rebuild     - Rebuild containers and reset DB"
 	@echo ""
